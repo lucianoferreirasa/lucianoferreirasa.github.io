@@ -3,9 +3,9 @@
     background-color: #935dff;
     color: lavenderblush;
     padding: 18px 20px;
-    box-shadow: 5px 5px 0 rgb(59, 59, 59);
+    box-shadow: 5px 5px 0 rgb(0, 0, 0);
     margin-right: 0;
-    opacity: 0.90;
+    opacity: 1;
     transition: transform 100ms cubic-bezier(.45,.97,.68,2.48);
     text-decoration: none;
 }
