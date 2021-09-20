@@ -8,3 +8,11 @@
 .section .main-title{
     margin-bottom: 70px;
 }
+
+.section.-bgBlack{
+    background-color: rgb(0, 0, 0);
+}
+
+.section.-bdFirst {
+    border-color: lightblue;
+}
